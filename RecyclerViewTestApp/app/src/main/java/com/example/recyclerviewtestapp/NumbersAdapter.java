@@ -7,15 +7,18 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class NumbersAdapter extends RecyclerView.Adapter<NumbersAdapter.NumberViewHolder> {
 
     private static int viewHolderCount;
     private int numberItems;
 
-    public NumbersAdapter(int numberOfItems) {
+    private Context parent;
+    public NumbersAdapter(int numberOfItems,Context parent) {
         numberItems = numberOfItems;
         viewHolderCount = 0;
+        this.parent=parent;
     }
 
     @Override
@@ -49,6 +52,16 @@ public class NumbersAdapter extends RecyclerView.Adapter<NumbersAdapter.NumberVi
             super(itemView);
             listItemNumberView = itemView.findViewById(R.id.tv_number_item);
             viewHolderIndex = itemView.findViewById(R.id.tv_view_holder_number);
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    // показываем Toast
+                    int positionIndex = getAdapterPosition();
+                    Toast toast=Toast.makeText(parent,"Element "+positionIndex+
+                            " was clicked!",Toast.LENGTH_SHORT);
+                    toast.show();
+                }
+            });
         }
 
         void bind(int listIndex) {
