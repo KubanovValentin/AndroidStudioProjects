@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20b68d86-a0a3-4f59-b48f-eb421af3b7a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/google-services (2).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/androidTest/java/com/example/myshopapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/java/com/example/myshopapp/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/app/src/test/java/com/example/myshopapp/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyShopApp/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VKinfo/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AndroidStudioProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AndroidStudioProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAndroidProject" beforeDir="false" afterPath="$PROJECT_DIR$/MyAndroidProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAndroidProject/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyAndroidProject/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAndroidProject/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/MyAndroidProject/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAndroidProject/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/MyAndroidProject/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MyShopApp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MyShopApp/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyShopApp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyShopApp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MyShopApp/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/MyShopApp/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/MyShopApp/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/androidTest/java/com/example/myshop/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/java/com/example/myshop/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyShopApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/app/src/test/java/com/example/myshop/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyShop/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VKinfo" beforeDir="false" afterPath="$PROJECT_DIR$/VKinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VKinfo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VKinfo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VKinfo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/VKinfo/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="2G2nwOo9qg1VxdVIufrcKPEbgcd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="ANIMATOR" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/VKinfo" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20b68d86-a0a3-4f59-b48f-eb421af3b7a4" name="Default Changelist" comment="" />
+      <created>1665595795128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665595795128</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1665681882420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1665681882420" />
+    <state x="460" y="168" key="SettingsEditor" timestamp="1665680624009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="168" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1665680624009" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1665686747814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1665686747814" />
+  </component>
+</project>
